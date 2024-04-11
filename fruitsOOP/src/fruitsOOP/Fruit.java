@@ -1,4 +1,4 @@
-package fruitsOOP;
+package fruitsOOP; //not required
 
 public class Fruit{
 	String purchase;
